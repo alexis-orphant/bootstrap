@@ -1,0 +1,31 @@
+Color Theme Swatches in Hex 
+.TOOL-1-hex { color: #010000; }
+.TOOL-2-hex { color: #393845; }
+.TOOL-3-hex { color: #9B96A3; }
+.TOOL-4-hex { color: #5C0009; }
+.TOOL-5-hex { color: #940315; }
+
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+body{
+    background-color: #393845;
+}
+/*Barra de navegacion*/
+header{
+    background-color: #940315;
+}
+.color-nav{
+    background-color: #5C0009;
+}
+.menu a{
+    font-size: 18px;
+    font-weight: bolder;
+}
+/*deslizador de imagenes*/
+.carousel-inner{
+    max-height: 39rem;
+}
+/*section*/
